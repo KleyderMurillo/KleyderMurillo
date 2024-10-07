@@ -1,3 +1,1 @@
-<center>
-  <h1>Hi, I am Kleyder :smiley:</h1>
-</center>
+<h1 align="center">Hi 👋, I'm Kleyder </h1>
