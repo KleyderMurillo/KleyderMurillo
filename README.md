@@ -2,7 +2,7 @@
 
 <h2 align="center"> Sobre mi: :hand: </h2>
 
-<p> Soy un desarrollador en formacion con interes en mods y plugins para el videojuego de minecraft  </p>
+<p> Soy un desarrollador en formacion con interes en mods y plugins para el videojuego de minecraft ![Bloque_de_Tierra_Minecraft](https://github.com/user-attachments/assets/11fb4b7d-66ac-49d1-966e-034f6ce8d88b) </p>
 
 <p>  </p>
 
