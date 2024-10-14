@@ -2,7 +2,8 @@
 
 <h2 align="center"> Sobre mi: :hand: </h2>
 
-<p> Soy un desarrollador en formacion con interes en mods y plugins para el videojuego de minecraft 
+
+<p style="text-align: center;"> Soy un desarrollador en formacion con interes en mods y plugins para el videojuego de minecraft 
     <a href = "https://www.minecraft.net/es-es" target = "_blank" rel = "noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/11fb4b7d-66ac-49d1-966e-034f6ce8d88b" alt="Bloque_de_Tierra_Minecraft" width="30" height="30" style="padding: 0;"> 
     </a> </p>
