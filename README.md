@@ -1,6 +1,6 @@
 <style>
     div a img {
-        margin-right: 10px; /* Agrega 10px de espacio entre las imágenes */
+        margin-right: 20px; /* Agrega 10px de espacio entre las imágenes */
     }
 </style>
 
@@ -24,6 +24,7 @@ Videojuegos :video_game:
 <li>
 Musica :musical_note:
 </li>
+</ol>
 
 ---
 
