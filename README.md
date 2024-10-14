@@ -19,16 +19,16 @@
 ### Lenguajes de programacion que conozco:
 <div>
     <a href = "https://www.arduino.cc/" target = "_blank" rel = "noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt = "Logo de Arduino" width = "40" height = "40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt = "Logo de Arduino" width = "50" height = "50" />
     </a>
     <a href = "https://www.java.com/es/" target = "_blank" rel = "noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt = "Logo de Java" width = "40" height = "40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt = "Logo de Java" width = "50" height = "50" />
     </a>
     <a href = "https://www.python.org/" target = "_blank" rel = "noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt = "Logo de Python" width = "40" height = "40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt = "Logo de Python" width = "50" height = "50" />
     </a>
     <a href = "https://developer.mozilla.org/es/docs/Web/HTML" target = "_blank" rel = "noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt = "Logo de HTML" width = "40" height = "40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt = "Logo de HTML" width = "50" height = "50" />
     </a>
 </div>
 
