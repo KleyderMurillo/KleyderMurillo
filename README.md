@@ -25,3 +25,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt = "Logo de HTML" width = "40" height = "40" />
     </a>
 </div>
+
+<h2 align="left">Puedes encontrarme en la web:</h2>
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-21a555a6-d0f9-460d-870e-e9f8352fa1b7" data-elfsight-app-lazy></div>
