@@ -33,5 +33,5 @@
 ### Puedes encontrarme en la web:
 <div>
 <a href = "https://www.facebook.com/profile.php?id=100015317171103" target = "_blank" rel = "noopener noreferrer">
-<img src = https://github.com/KleyderMurillo/KleyderMurillo/tree/main/iconos_redessociales/facebook.png alt = "Logo de facebook" width = "50" height = "50" />
+<img src = https://github.com/KleyderMurillo/KleyderMurillo/blob/main/iconos_redessociales/facebook.png alt = "Logo de facebook" width = "50" height = "50" />
 </div>
