@@ -10,7 +10,9 @@
 
 <p>  </p>
 
-<h3 align="left">Lenguajes de programacion que conozco:</h3>
+---
+
+### Lenguajes de programacion que conozco:
 <div>
     <a href = "https://www.arduino.cc/" target = "_blank" rel = "noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt = "Logo de Arduino" width = "40" height = "40" />
@@ -26,6 +28,10 @@
     </a>
 </div>
 
-<h2 align="left">Puedes encontrarme en la web:</h2>
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-21a555a6-d0f9-460d-870e-e9f8352fa1b7" data-elfsight-app-lazy></div>
+---
+
+### Puedes encontrarme en la web:
+<div>
+<a href = "https://www.facebook.com/profile.php?id=100015317171103" target = "_blank" rel = "noopener noreferrer">
+<img src = /facebook.png alt = "Logo de facebook" width = "50" height = "50" />
+</div>
