@@ -1,3 +1,9 @@
+<style>
+    div a img {
+        margin-right: 10px; /* Agrega 10px de espacio entre las imágenes */
+    }
+</style>
+
 <h1 align="center">Hi :smile:, I'm Kleyder </h1>
 
 <h2 align="center"> Sobre mi: :hand: </h2>
@@ -10,9 +16,14 @@
 
 ---
 
-### Intereses :thought_balloon:
-
-
+## Intereses :thought_balloon:
+<ol type="I">
+<li>
+Videojuegos :video_game:
+</li>
+<li>
+Musica :musical_note:
+</li>
 
 ---
 
@@ -31,6 +42,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt = "Logo de HTML" width = "50" height = "50" />
     </a>
 </div>
+
 
 ---
 
