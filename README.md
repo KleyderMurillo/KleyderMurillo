@@ -1,9 +1,3 @@
-<style>
-    div a img {
-        margin-right: 20px; /* Agrega 10px de espacio entre las imágenes */
-    }
-</style>
-
 <h1 align="center">Hi :smile:, I'm Kleyder </h1>
 
 <h2 align="center"> Sobre mi: :hand: </h2>
