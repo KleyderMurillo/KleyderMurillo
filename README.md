@@ -2,8 +2,7 @@
 
 <h2 align="center"> Sobre mi: :hand: </h2>
 
-<p> Soy un desarrollador en formacion con interes en mods y plugins para el videojuego de minecraft <a href="https://www.minecraft.net/es-es" target = "_blank" rel = "noopener noreferrer">
-<img src = https://iconscout.com/es/lottie-animation/minecraft-bloque-hierba-5613540 alt = "cubo de tierra de minecraft" width = "10" height = "10" /> </p>
+<p> Soy un desarrollador en formacion con interes en mods y plugins para el videojuego de minecraft  </p>
 
 <p>  </p>
 
