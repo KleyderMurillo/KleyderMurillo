@@ -12,12 +12,21 @@
 
 ## Intereses :thought_balloon:
 <ol type="I">
-<li>
-Videojuegos :video_game:
-</li>
-<li>
-Musica :musical_note:
-</li>
+<li>Mikrotik :cd:</li>
+<li>Electronica :battery:</li>
+<li>Redes (TIC) :satellite:</li>
+<li>Computacion :computer:</li>
+</ol>
+
+---
+
+## Hobbies :high_brightness:
+
+<ol type=”A”>
+  <li>Videojuegos :video_game:</li>
+  <li>Musica :musical_note:</li>
+  <li>Acuarista :tropical_fish:</li>
+  <li>Jardinero :seedling:</li>
 </ol>
 
 ---
@@ -35,24 +44,5 @@ Musica :musical_note:
     </a>
     <a href = "https://developer.mozilla.org/es/docs/Web/HTML" target = "_blank" rel = "noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt = "Logo de HTML" width = "50" height = "50" />
-    </a>
-</div>
-
-
----
-
-### Donde puedes encontrarme en la web:
-<div>
-    <a href = "https://www.facebook.com/profile.php?id=100015317171103" target = "_blank" rel = "noopener noreferrer">
-        <img src = https://github.com/KleyderMurillo/KleyderMurillo/blob/main/iconos_redessociales/facebook.png alt = "Logo de facebook" width = "50" height = "50" />
-    </a>
-    <a href = "https://www.instagram.com/kleyder_1205_/?hl=es" target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/KleyderMurillo/KleyderMurillo/blob/main/iconos_redessociales/instagram.png" alt = "Logo de Instagram" width = "50" height = "50" />
-    </a>
-    <a href = "https://www.youtube.com/@kleyder-ln2xd" target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/KleyderMurillo/KleyderMurillo/blob/main/iconos_redessociales/youtube.png" alt = "Logo de YouTube" width = "50" height = "50" />
-    </a>
-    <a href = "https://x.com/kleyder1205?t=Gs7Wxx_4gJS_L3exKphcLw&s=09" target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/KleyderMurillo/KleyderMurillo/blob/main/iconos_redessociales/gorjeo.png" alt = "Logo de X" width = "50" height = "50" />
     </a>
 </div>
